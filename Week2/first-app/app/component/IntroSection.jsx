@@ -6,7 +6,7 @@ const IntroSection = () => {
     let age = Number(12.2); // variable declaration (expllicit Number)
 
     return  (
-    <div className="h-[100vh] w-screen flex justify-center items-center">
+    <div className="h-[100vh] flex justify-center items-center">
         <div className="w-full h-full px-24 flex flex-col items-center justify-center">
         <p className="text-center text-2xl">Hello, my name is {name}.</p>
         <br />

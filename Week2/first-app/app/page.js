@@ -5,10 +5,12 @@ export default function Home() {
  
 
   return (
-    <>
+    <div>
+    
       <Introsection/>
       <ProfileSection/>
-    </>
+
+    </div>
   );
 }
 
